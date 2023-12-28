@@ -1,7 +1,6 @@
-﻿# Football-responsive-website
+﻿# Football Responsive Website
 ```
-1. Responsive website
-2. HTML and CSS projcet
-3. Font family poppins
-4. Font awesome icon use
+1. Responsive website using HTML and CSS
+2. Font family Poppins
+3. Font awesome icon use
 ```
